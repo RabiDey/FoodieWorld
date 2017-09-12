@@ -1,0 +1,57 @@
+﻿@model Foodie.TasteBud
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+
+    <hr />
+    <div class="form-horizontal">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="item">
+                    <img src="@Url.Content(Model.Image)" class="img-rounded" height="300" width="350" style="border:inset" alt="Food Name" />
+                </div>
+            </div>
+            <div class="col-md-7">
+
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.FoodName) :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.FoodName)
+                    </dd>
+                    <br/>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Country) :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Country)
+                    </dd>
+                    <br/>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Info) :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Info)
+                    </dd>
+                                  
+
+                   </dl>
+                </div>
+            </div>
+            </div>
+    </div>
+            <br/><br/>
+            <p>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.FoodId }, new { @class = "btn btn-default" }) |
+                @Html.ActionLink("Back to List", "Index", new { @class = "btn btn-default" })
+            </p>

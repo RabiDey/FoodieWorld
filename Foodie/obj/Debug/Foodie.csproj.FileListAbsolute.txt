@@ -1,0 +1,220 @@
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\csc.exe
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CSharp.Core.targets
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\System.Collections.Immutable.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\System.Reflection.Metadata.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\vbc.exe
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe.config
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.dll.config
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.pdb
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Antlr3.Runtime.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.SqlServer.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.Web.Infrastructure.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Newtonsoft.Json.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Helpers.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Mvc.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Optimization.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Razor.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Deployment.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Razor.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\WebGrease.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.SqlServer.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Helpers.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Mvc.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Optimization.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Razor.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Deployment.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Razor.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Antlr3.Runtime.pdb
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Newtonsoft.Json.xml
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.csprojResolveAssemblyReference.cache
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.dll
+\\headoffice\office\rabi\My Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.pdb
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\csc.exe
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\vbc.exe
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Foodie.dll.config
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Foodie.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Foodie.pdb
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Antlr3.Runtime.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\EntityFramework.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\EntityFramework.SqlServer.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Newtonsoft.Json.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Helpers.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Mvc.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Optimization.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Razor.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.Razor.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\WebGrease.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\EntityFramework.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\EntityFramework.SqlServer.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Helpers.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Mvc.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Optimization.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.Razor.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\System.Web.WebPages.Razor.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Antlr3.Runtime.pdb
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\bin\Newtonsoft.Json.xml
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\obj\Debug\Foodie.csprojResolveAssemblyReference.cache
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\obj\Debug\Foodie.dll
+C:\Users\RabiNilima\Desktop\MVC-CRUD\Foodie\Foodie\obj\Debug\Foodie.pdb
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\csc.exe
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\vbc.exe
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.dll.config
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Foodie.pdb
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Antlr3.Runtime.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.SqlServer.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Newtonsoft.Json.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Helpers.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Mvc.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Optimization.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Razor.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Razor.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\WebGrease.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\EntityFramework.SqlServer.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Helpers.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Mvc.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Optimization.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.Razor.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\System.Web.WebPages.Razor.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Antlr3.Runtime.pdb
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\bin\Newtonsoft.Json.xml
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.csprojResolveAssemblyReference.cache
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.dll
+C:\Users\RabiNilima\Documents\Visual Studio 2015\Projects\Foodie\Foodie\obj\Debug\Foodie.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\csc.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.CSharp.Core.targets
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\System.Collections.Immutable.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\System.Reflection.Metadata.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\vbc.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe.config
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Foodie.dll.config
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Foodie.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Foodie.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Antlr3.Runtime.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\EntityFramework.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\EntityFramework.SqlServer.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Microsoft.Web.Infrastructure.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Newtonsoft.Json.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Helpers.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Mvc.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Optimization.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Razor.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.Deployment.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.Razor.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\WebGrease.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\EntityFramework.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\EntityFramework.SqlServer.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Helpers.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Mvc.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Optimization.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.Razor.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.Deployment.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\System.Web.WebPages.Razor.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Antlr3.Runtime.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\bin\Newtonsoft.Json.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\obj\Debug\Foodie.csprojResolveAssemblyReference.cache
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\obj\Debug\Foodie.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\20-April-2017(V1)\Foodie\Foodie\obj\Debug\Foodie.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\csc.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.CSharp.Core.targets
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\System.Collections.Immutable.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\System.Reflection.Metadata.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\vbc.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\roslyn\VBCSCompiler.exe.config
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Foodie.dll.config
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Foodie.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Foodie.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Antlr3.Runtime.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\EntityFramework.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\EntityFramework.SqlServer.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Microsoft.Web.Infrastructure.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Newtonsoft.Json.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Helpers.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Mvc.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Optimization.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Razor.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.Deployment.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.Razor.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\WebGrease.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\EntityFramework.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\EntityFramework.SqlServer.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Helpers.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Mvc.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Optimization.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.Razor.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.Deployment.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\System.Web.WebPages.Razor.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Antlr3.Runtime.pdb
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\bin\Newtonsoft.Json.xml
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\obj\Debug\Foodie.csprojResolveAssemblyReference.cache
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\obj\Debug\Foodie.dll
+\\HeadOffice\office\rabi\My Documents\Visual Studio 2015\Projects\25-April-2017\Foodie\Foodie\obj\Debug\Foodie.pdb

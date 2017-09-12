@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Foodie.TasteBud>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Foodie World!</h2>
+<div class="container">
+
+   
+@using (Html.BeginForm())
+{
+    <p>
+        <div class="create col-md-10 form-inline">
+            <label>Country:</label>
+            @Html.DropDownList("countryName", (IEnumerable<SelectListItem>)ViewBag.Id, "All", new { @class = "form-control" })
+            <label>Food Name:</label>
+            @Html.TextBox("searchString", "", new { @class = "from-control" })
+            <input type="submit" value="Search" class="btn btn-default" />
+      
+            
+            @*Country: @Html.DropDownList("countryName", "All")
+            Food Name: @Html.TextBox("searchString")
+            <input type="submit" value="Search" class="btn btn-default" />*@
+    
+            @Html.ActionLink("Add New Recipe", "Create", null, new { @class = "btn btn-default" })
+      </div>       
+         
+    </p>
+}
+ </div>
+
+<div class="">
+    <div class="container">
+        <div class="row p-b">
+    @foreach (var item in Model)
+            {
+        <div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+            <div class="fh5co-post wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1.1s">
+                <div class="form-horizontal">
+                  <h3>@Html.DisplayFor(modelItem => item.FoodName)</h3> 
+                </div>
+                
+                <div class="fh5co-post-image" style="height:250px;">
+                    <div class="fa fa-chevron-left" aria-hidden="true">
+                        <img src="@Url.Content(item.Image)" class="img-rounded" height="200" width="250" style="border:inset" />
+                    </div>
+                   
+                </div>
+                
+                    <div>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.FoodId }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.FoodId }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.FoodId }, new { @class = "btn btn-default" })
+                    </div>
+                </div>
+            <div> <br /><br/></div>
+            </div>
+
+                }
+            </div>
+        </div>
+    </div>
+
+

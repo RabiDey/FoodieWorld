@@ -1,0 +1,24 @@
+﻿@model Foodie.TasteBud
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<div>
+    <h4>Are you sure you want to delete?</h4>
+    <h3><b>@Html.DisplayFor(model => model.FoodName)</b></h3>
+    <img src="@Url.Content(Model.Image)" class="img-rounded" height="300" width="350" style="border:inset" alt="Food Name" />
+</div>
+
+<div>
+        @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        <br/><br/>
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
